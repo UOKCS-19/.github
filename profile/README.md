@@ -1,4 +1,4 @@
-# 💻 Computer Science - 2019 (UOK) 💻
+# 💻 CS19 - Dev Community 💻
 ## For Students - By Students
 
 We are a group of dynamic computer science students from the University of Kelaniya, Sri Lanka. Our organization is focused on active development, collaboration, and discussion of new trends in technology. We believe that by working together, we can achieve great things and make a real impact in the tech world.
@@ -9,7 +9,7 @@ We are a group of dynamic computer science students from the University of Kelan
 
 💬 Panel Discussions: We are passionate about staying up-to-date with the latest developments in technology. We regularly host panel discussions and workshops on new trends and technologies to keep our members informed and inspired.
 
-🎉 Fun Facts: The University of Kelaniya is one of the oldest and most prestigious universities in Sri Lanka, with a rich history dating back to the 5th century BC.
+🎉 Fun Facts: The University of Kelaniya is one of the oldest and most prestigious universities in Sri Lanka, with a rich history dating back to the 1875.
 
 Join us and be a part of this vibrant and dynamic community! We look forward to working with you. 🎓💻
 
